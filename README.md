@@ -1,12 +1,4 @@
-<h1 align="center">Hello World👋</h1>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D4E35AQF4BpjdZ_UfHg/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1725678921552?e=1731362400&v=beta&t=SDFYbl1xZAJvDTt9FGeVLw4xfBhZlICroaV_cvkulPU"  />
-</div>
+<h1 align="center">Hi there. I´m Joel👋Welcome my profile!!!</h1>
 
 ###
 
