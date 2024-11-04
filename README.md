@@ -124,7 +124,6 @@
 
 <div align="center">
   ![Snake animation](https://raw.githubusercontent.com/jjalixto/jjalixto/output/snake.svg)
-
 </div>
 
 ###
