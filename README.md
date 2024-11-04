@@ -118,8 +118,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jjalixto/master/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/jjalixto/jjalixto/output/snake.svg" alt="Snake animation" />
 
 ###
