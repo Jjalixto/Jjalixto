@@ -118,7 +118,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jjalixto/jjalixto/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jjalixto/output/snake.svg" alt="Snake animation" />
 
 ###
 
