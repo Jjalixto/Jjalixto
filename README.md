@@ -123,7 +123,8 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jjalixto/count.svg?"  />
+  ![Snake animation](https://raw.githubusercontent.com/jjalixto/jjalixto/output/snake.svg)
+
 </div>
 
 ###
